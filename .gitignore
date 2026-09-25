@@ -26,3 +26,7 @@ release
 __pycache__
 .venv
 .gemini/
+Remake/dist-electron/main.js
+Remake/dist-electron/preload.js
+dist-electron/main.js
+dist-electron/preload.js
